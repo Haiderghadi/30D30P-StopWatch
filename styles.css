@@ -12,7 +12,6 @@ body{
   flex-direction: column;
 }
 .container {
-  width: 70dvw;
   height: 250px;
   background-color: rgb(8, 113, 204);
   border-radius: 30px;
